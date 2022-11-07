@@ -1,0 +1,37 @@
+body {
+    /* your styles here */
+  }
+  
+  h1, #designed-by {
+    /* your styles here */
+  }
+  
+  .style1 {
+    background-color: #9B9A9A;
+  }
+  
+  .style2 {
+    background-color: #9B9A9A;
+  }
+  
+  .style3 {
+    background-color: #9B9A9A;
+  }
+  
+  .style4 {
+    background-color: #9B9A9A;
+  }
+  
+  .style5 {
+    background-color: #9B9A9A;
+  }
+  
+  .style6 {
+    background-color: #9B9A9A;
+  }
+  
+  /* SETTING THE COLOR OF THE BOX TEXT */
+  .tiles .box-wrapper > a {
+    color: white;
+  }
+  
