@@ -1,11 +1,17 @@
 body {
-    /* your styles here */
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
   }
   
   h1, #designed-by {
-    /* your styles here */
+    text-align: center;
   }
   
+  p, #designed-by {
+    text-align: center;
+  }
+
   .style1 {
     background-color: #9B9A9A;
   }
@@ -34,4 +40,3 @@ body {
   .tiles .box-wrapper > a {
     color: white;
   }
-  
