@@ -40,4 +40,5 @@ body {
   .tiles .box-wrapper > a {
     color: yellow;
     font-style: italic;
+    text-decoration: underline;
   }
