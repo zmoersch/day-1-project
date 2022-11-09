@@ -3,11 +3,11 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 
   }
-  
+
   h1, #designed-by {
     text-align: center;
   }
-  
+
   p, #designed-by {
     text-align: center;
   }
@@ -15,28 +15,29 @@ body {
   .style1 {
     background-color: red;
   }
-  
+
   .style2 {
     background-color: rgb(133, 0, 0);
   }
-  
+
   .style3 {
     background-color: rgb(255, 106, 0);
   }
-  
+
   .style4 {
     background-color: rgb(255, 0, 128);
   }
-  
+
   .style5 {
     background-color: rgb(101, 0, 0);
   }
-  
+
   .style6 {
     background-color: rgb(141, 54, 0);
   }
-  
+
   /* SETTING THE COLOR OF THE BOX TEXT */
   .tiles .box-wrapper > a {
     color: yellow;
+    font-style: italic;
   }
